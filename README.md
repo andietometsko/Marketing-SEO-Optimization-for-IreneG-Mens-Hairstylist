@@ -77,11 +77,6 @@ We redesigned the entire website using Squarespace to make it more user-friendly
 #### Methodology: 
 Our approach follows a build, measure, and learn method. We build technological tools using square, Squarespace, google analytics, and amazon seller central, Measure using the analytics provided from each platform, and learn by collecting insights from data and going to Irene and Jorge for approval and feedback. This was all maintained using SCRUM through scrum planning, standup, and review. 
 
-#### 3 Step Methodology: 
-1. Build 
-2. Measure 
-3. Learn
-
    
 ## Next Steps / Future Improvements
 
